@@ -91,3 +91,4 @@ sh sudo install.sh /opt/jdk-jcp/jre XXXXX-XXXXX-XXXXX-XXXXX-XXXXX "\"Назва�
 [Установка для РуТокен - Аналогично](https://forum.rutoken.ru/topic/3173/)  
 [Rules](https://github.com/proxy-m/smevx-crypto/raw/master/GIS_ZHKH_testing_rules_13.1.10.1.pdf)  
 [Установка CryptoPro libphpcades для Ubuntu 18.04 x64 и PHP 7.2.24 патч - не обязательно](https://docs.cryptopro.ru/cades/phpcades/phpcades-install)  
+[Важно настроить stunnel](https://habr.com/ru/post/300856/)  
