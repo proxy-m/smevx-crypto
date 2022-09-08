@@ -84,6 +84,7 @@ sh sudo install.sh /opt/jdk-jcp/jre XXXXX-XXXXX-XXXXX-XXXXX-XXXXX "\"Назва�
 [Apache CXF и ЭЦП для SOAP сообщений СМЭВ](http://oldcouncil.blogspot.ru/2013/03/apache-cxf-soap.html)  
 [Побег из Крипто Про. Режиссерская версия, СМЭВ-edition](https://habrahabr.ru/post/282225/)  
 [СМЭВ 3. Электронная подпись сообщений на Java и КриптоПро](https://habrahabr.ru/company/alfa/blog/350158/)  
+[Руководство по выживанию: TLS/SSL и X.509](https://pro-ldap.ru/tr/zytrax/tech/ssl.html)  
 [NET 4.x Интеграция с ГИС ЖКХ и подпись SOAP без Крипто .NET и stunnel](https://www.cyberforum.ru/web-services-wcf/thread1954969.html)  
 [Документация ALT Linux - не Debian](https://docs.altlinux.org/ru-RU/alt-workstation/10.1/html-single/alt-workstation/index.html#idm45893044104560)  
 [ГОСТ в OpenSSL - ALT Linux, CentOS и Ubuntu](https://www.altlinux.org/%D0%93%D0%9E%D0%A1%D0%A2_%D0%B2_OpenSSL)  
